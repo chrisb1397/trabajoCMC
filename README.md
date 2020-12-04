@@ -1,1 +1,3 @@
 # trabajoCMC
+Integrantes:
+- Christian Carrera
